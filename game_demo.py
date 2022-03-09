@@ -1,4 +1,4 @@
-
+#developers: Kyle Deato, Yusan Yin, Peter Burnham, Alex Rodriguez, Logan Erspamer
 import random
 
 class Game:
